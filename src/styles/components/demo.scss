@@ -1,0 +1,4 @@
+.demo {
+    @include wh(100px);
+    border: $border;
+}
